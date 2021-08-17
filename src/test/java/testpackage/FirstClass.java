@@ -10,4 +10,8 @@ public class FirstClass {
 		System.out.println("Test Case 1");
 	}
 
+	@Test
+	public void testSecond() {
+		System.out.println("Second test");
+	}
 }
